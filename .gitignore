@@ -1,3 +1,38 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gitignore
 .idea/
+#OSX Filesystem
+.DS_Store
+# ignore node/grunt dependency directories
+node_modules/
+# Grunt intermediate storage
+.grunt
+# ignore all files that start with ~
+~*
+# ignore OS generated files
+ehthumbs.db
+Thumbs.db
+# ignore Editor files
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
+# ignore compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+# ignore packaged files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
