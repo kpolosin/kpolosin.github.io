@@ -1,5 +1,5 @@
 # CV — Konstantin Polosin
-
+ 
 On this page you can find all the detailed information about me!
 
 [Start research :)](http://kpolosin.github.io)
