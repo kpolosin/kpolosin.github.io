@@ -1,7 +1,8 @@
 # CV — Konstantin Polosin
- 
 On this page you can find all the detailed information about me!
-:link: [Start :)](http://kpolosin.github.io)
+<br>
+:us: [Start :)](https://kpolosin.github.io)<br>
+:ru: [Start :)](https://kpolosin.github.io/ru/index.html)
 
 ## Contact me
 <b>E-mail</b> - user0403@gmail.com<br><br>
