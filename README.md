@@ -7,5 +7,5 @@ On this page you can find all the detailed information about me!
 ## Contact me
 <b>E-mail</b> - user0403@gmail.com<br><br>
 <b>Skype</b> - yapokakl404<br><br>
-[Facebook](https://www.facebook.com/kostya.polosin)<br><br>
-[Linkidin](https://www.linkedin.com/in/konstantinpolosin/)
+<a href="https://www.facebook.com/kostya.polosin/" target="_blank">Facebook</a>
+<a href="https://www.linkedin.com/in/konstantinpolosin/" target="_blank">Linkidin</a>
