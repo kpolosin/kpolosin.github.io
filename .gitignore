@@ -1,6 +1,6 @@
-# Created by .ignore support plugin (hsz.mobi)
-.gitignore
 .idea/
+# track this file .gitignore (i.e. do NOT ignore it)
+!.gitignore
 #OSX Filesystem
 .DS_Store
 # ignore node/grunt dependency directories
@@ -36,3 +36,5 @@ Thumbs.db
 *.rar
 *.tar
 *.zip
+
+#LOL test
