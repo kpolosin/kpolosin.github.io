@@ -15,8 +15,8 @@ My overall of experience work in IT - more than 7 years.
 
 
 <p align="center">
-  <a href="https://getbootstrap.com/">
-    <img src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" width=72 height=72>
+  <a href="https://kpolosin.github.io/">
+    <img src="https://kpolosin.github.io/assets/brand/small-logo.svg" width=72 height=72>
   </a>
 
   <h3 align="center">Bootstrap</h3>
