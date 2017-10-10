@@ -21,7 +21,7 @@
 
 
 
-## Contact me
+<p align="center"><h2>Contact me</h2></p>
 ➤ [Upwork](https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/)<br>
 ➤ [Facebook](https://www.facebook.com/kostya.polosin)<br>
 ➤ [Linkidin](https://www.linkedin.com/in/konstantinpolosin/)<br>
