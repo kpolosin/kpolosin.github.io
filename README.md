@@ -1,6 +1,3 @@
-# CV — Konstantin Polosin
-# Overview
-
 <p align="center">
   <a href="https://kpolosin.github.io/">
     <img src="https://kpolosin.github.io/dist/images/small-logo.svg" width=72 height=72>
@@ -13,7 +10,7 @@
     I'm a web developer with extensive experience in building high quality and complexity web sites and landing pages. I've successfully developed more than 60 web projects in a broad range of business spheres on Ukrainian and European market: e-commerce, development, cars, art, pharmacy, extreme, beauty etc.
     My overall of experience work in IT - more than 7 years.
     <br>
-    <a href="https://kpolosin.github.io/"><strong>Overview CV &raquo;</strong></a>
+    <a href="https://kpolosin.github.io/"><strong>Overview &raquo;</strong></a>
   </p>
 </p>
 
