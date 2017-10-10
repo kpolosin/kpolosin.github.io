@@ -20,7 +20,11 @@
 </p>
 
 <h2><p align="center">Contact me</p></h2>
-➤ [Upwork](https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/)<br>
+
+<a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/">
+<img src="https://kpolosin.github.io/dist/images/upwork.svg" width=50 height=50>
+&emsp; Upwork</a>
+
 ➤ [Facebook](https://www.facebook.com/kostya.polosin)<br>
 ➤ [Linkidin](https://www.linkedin.com/in/konstantinpolosin/)<br>
 ➤<b> Skype</b> - yapokakal404<br>
