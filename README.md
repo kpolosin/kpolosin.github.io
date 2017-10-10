@@ -26,7 +26,7 @@
 <img src="https://kpolosin.github.io/dist/images/upwork.svg" width=30 height=30><br>
 Upwork
 </a>
-
+<br><br><br>
 <a href="https://www.facebook.com/kostya.polosin/">
 <img src="https://kpolosin.github.io/dist/images/facebook.svg" width=30 height=30><br>
 Facebook
