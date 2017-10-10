@@ -22,12 +22,15 @@
 <h2><p align="center">Contact me</p></h2>
 
 <p align="center">
+    <a href="https://kpolosin.github.io">:us: English</a>&emsp; &middot; &emsp;
+        <a href="https://kpolosin.github.io/rus/index.html">:ru: Русский</a>
     <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/">
         <img src="https://kpolosin.github.io/dist/images/upwork.svg" width=25 height=25><br>
     </a>
     <a href="https://www.facebook.com/kostya.polosin/">
         <img src="https://kpolosin.github.io/dist/images/facebook.svg" width=25 height=25><br>
     </a>
+    
  
 </p>
 
