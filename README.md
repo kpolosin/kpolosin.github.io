@@ -27,8 +27,10 @@
 Upwork
 </a>
 
+<a href="https://www.facebook.com/kostya.polosin/">
 <img src="https://kpolosin.github.io/dist/images/facebook.svg" width=30 height=30><br>
-<a href="https://www.facebook.com/kostya.polosin/">Upwork</a>
+Facebook
+</a>
 
 </p>
 
