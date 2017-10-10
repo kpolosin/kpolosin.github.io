@@ -23,7 +23,7 @@
 
 <p align="center">
 <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/" style="align-items: baseline;display: initial;">
-<img src="https://kpolosin.github.io/dist/images/upwork.svg" width=15 height=15><br>
+<img src="https://kpolosin.github.io/dist/images/upwork.svg" width=15 height=15 align="left"><br>
 Upwork
 </a>
 <br>
