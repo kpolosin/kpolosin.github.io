@@ -27,4 +27,15 @@
 ➤ [Linkidin](https://www.linkedin.com/in/konstantinpolosin/)<br>
 ➤<b> Skype</b> - yapokakal404<br>
 ➤<b> E-mail</b> - user0403@gmail.com<br>
+
+<script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>
+<div id="SkypeButton_Call_yapokakal404_1">
+ <script type="text/javascript">
+ Skype.ui({
+ "name": "chat",
+ "element": "SkypeButton_Call_yapokakal404_1",
+ "participants": ["yapokakal404"]
+ });
+ </script>
+</div>
  
