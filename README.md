@@ -22,8 +22,10 @@
 <h2><p align="center">Contact me</p></h2>
 
 <p align="center">
+<a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/">
 <img src="https://kpolosin.github.io/dist/images/upwork.svg" width=30 height=30><br>
-<a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/">Upwork</a>
+Upwork
+</a>
 
 <img src="https://kpolosin.github.io/dist/images/facebook.svg" width=30 height=30><br>
 <a href="https://www.facebook.com/kostya.polosin/">Upwork</a>
