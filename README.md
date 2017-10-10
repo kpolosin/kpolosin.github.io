@@ -30,9 +30,9 @@ Quick Links
 -----------
 <p align="center">
 
-| <img src="https://kpolosin.github.io/dist/images/upwork.svg" width=50 height=50>| <img src="https://kpolosin.github.io/dist/images/facebook.svg" width=50 height=50> | **[Fonts ➶][patched-fonts]** | **[Patcher ➶][Nerd Fonts]** |
+| <img src="https://kpolosin.github.io/dist/images/upwork.svg" width=50 height=50>| <img src="https://kpolosin.github.io/dist/images/facebook.svg" width=50 height=50> | <img src="https://kpolosin.github.io/dist/images/facebook.svg" width=50 height=50> | <img src="https://kpolosin.github.io/dist/images/facebook.svg" width=50 height=50> |
 |--------------------------------|-----------------|------------------------------|-----------------------------|
-| <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/">Upwork</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | [![patcher-logo-small][img-visual-toc-patched-fonts]][patched-fonts] | [![patcher-logo-small][img-visual-toc-fonts-patcher]][Nerd Fonts] |
+| <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/">Upwork</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> |
 
 <p>
 
