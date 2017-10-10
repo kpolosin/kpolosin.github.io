@@ -24,7 +24,7 @@ My overall of experience work in IT - more than 7 years.
   <p align="center">
     Sleek, intuitive, and powerful front-end framework for faster and easier web development.
     <br>
-    <a href="https://getbootstrap.com/docs/4.0/"><strong>Explore Bootstrap docs &raquo;</strong></a>
+    <a href="https://getbootstrap.com/docs/4.0/" target="_blank"><strong>Explore Bootstrap docs &raquo;</strong></a>
     <br>
     <br>
     <a href="https://themes.getbootstrap.com/">Bootstrap Themes</a>
