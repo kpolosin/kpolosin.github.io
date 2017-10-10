@@ -30,6 +30,12 @@
             <img src="https://kpolosin.github.io/dist/images/linkedin.svg" width=25 height=25>&thinsp;Linkidin</a>            
 </p>
 
+Quick Links
+-----------
+
+| **[Screenshots](#screenshots)**| **[API](#api)** | **[Fonts ➶][patched-fonts]** | **[Patcher ➶][Nerd Fonts]** |
+|--------------------------------|-----------------|------------------------------|-----------------------------|
+| [![screenshots][img-visual-toc-screenshots]](#screenshots) | [![api][img-visual-toc-api]](#api) | [![patcher-logo-small][img-visual-toc-patched-fonts]][patched-fonts] | [![patcher-logo-small][img-visual-toc-fonts-patcher]][Nerd Fonts] |
 
 
 ➤<b> Skype</b> - yapokakal404<br>
