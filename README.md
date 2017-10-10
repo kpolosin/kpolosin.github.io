@@ -10,12 +10,12 @@
     I'm a web developer with extensive experience in building high quality and complexity web sites and landing pages. I've successfully developed more than 60 web projects in a broad range of business spheres on Ukrainian and European market: e-commerce, development, cars, art, pharmacy, extreme, beauty etc.
     My overall of experience work in IT - more than 7 years.
     <br><br>
-    <a href="https://kpolosin.github.io/"><strong>Overview &raquo;</strong></a>
+    <h2 align="center"><strong>Overview</strong></h2>
   </p>
 </p>
 
 <p align="center">
-    <a href="https://kpolosin.github.io">:us: English</a> &lang; &emsp; &bull; &emsp; &rang;
+    <a href="https://kpolosin.github.io">:us: English</a> &lang; &emsp; &middot; &emsp; &rang;
     <a href="https://kpolosin.github.io/rus/index.html">:ru: Русский</a>
 </p>
 
