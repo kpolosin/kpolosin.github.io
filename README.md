@@ -21,25 +21,16 @@
 
 <h2><p align="center">Contact me</p></h2>
 
-
+<p align="center">
 <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/" style="align-items: baseline;display: initial;">
 <img src="https://kpolosin.github.io/dist/images/upwork.svg" width=15 height=15><br>
-<p align="right">Upwork</p>
 </a>
-<md-input-container md-no-float class="navbar-search">
-    <md-icon md-svg-icon="ic_search_24px"></md-icon>
-    <input class="search-input" type="text" 
-           placeholder="Search"
-           ng-model="search.text" 
-           ng-model-options="{ debounce: 700 }"
-           ng-blur="inputBlur()"
-           ng-focus="inputFocus()">
-</md-input-container>
 <br>
 <a href="https://www.facebook.com/kostya.polosin/" style="align-items: baseline;display: initial;">
 <img src="https://kpolosin.github.io/dist/images/facebook.svg" width=15 height=15><br>
-Facebook
 </a>
+
+</p>
 
 
 ➤ [Facebook](https://www.facebook.com/kostya.polosin)<br>
