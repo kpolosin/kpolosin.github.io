@@ -27,7 +27,7 @@
     <a href="https://www.facebook.com/kostya.polosin/">
         <img src="https://kpolosin.github.io/dist/images/facebook.svg" width=25 height=25>Facebook</a>
     <a href="https://www.facebook.com/kostya.polosin/">
-            <img src="https://kpolosin.github.io/dist/images/linkidin.svg" width=25 height=25>Linkidin</a>            
+            <img src="https://kpolosin.github.io/dist/images/linkedin.svg" width=25 height=25>Linkidin</a>            
 </p>
 
 
