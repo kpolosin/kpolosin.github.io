@@ -14,8 +14,10 @@
   </p>
 </p>
 
-<p align="center"><a href="https://kpolosin.github.io">:us: English &middot;</a></p><br>
-<p align="center"><a href="https://kpolosin.github.io/rus/index.html">:ru: Русский</a></p>
+<p align="center">
+    <a href="https://kpolosin.github.io">:us: English &middot;</a></p><br>
+    <a href="https://kpolosin.github.io/rus/index.html">:ru: Русский</a>
+</p>
 
 
 
