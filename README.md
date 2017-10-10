@@ -14,8 +14,8 @@
   </p>
 </p>
 
-<p align="center">:us: <a href="https://kpolosin.github.io">English &middot;</a></p><br>
-[:ru: Russian](https://kpolosin.github.io/ru/index.html)<br>
+<p align="center"><a href="https://kpolosin.github.io">:us: English &middot;</a></p><br>
+<p align="center"><a href="https://kpolosin.github.io/rus/index.html">:ru: Русский</a></p>
 
 
 
