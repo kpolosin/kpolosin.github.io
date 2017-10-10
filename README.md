@@ -30,7 +30,7 @@ My overall of experience work in IT - more than 7 years.
     <br>
     <a href="https://themes.getbootstrap.com/">Bootstrap Themes</a>
     &middot;
-    <a href="https://jobs.getbootstrap.com/">Job Board</a>
+    <a href="https://jobs.getbootstrap.com/">Job Board</a> 
     &middot;
     <a href="https://blog.getbootstrap.com/">Blog</a>
   </p>
