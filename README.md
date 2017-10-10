@@ -23,12 +23,9 @@
 
 <p align="center">
     <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/">
-        <img src="https://kpolosin.github.io/dist/images/upwork.svg" width=25 height=25>
-        Upwork
-    </a>
+        <img src="https://kpolosin.github.io/dist/images/upwork.svg" width=25 height=25>Upwork</a>
     <a href="https://www.facebook.com/kostya.polosin/">
-        <img src="https://kpolosin.github.io/dist/images/facebook.svg" width=25 height=25>
-    </a>
+        <img src="https://kpolosin.github.io/dist/images/facebook.svg" width=25 height=25>Facebook</a>
 </p>
 
 
