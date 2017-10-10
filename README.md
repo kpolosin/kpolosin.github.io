@@ -22,8 +22,7 @@
 <h2><p align="center">Contact me</p></h2>
 
 
-    <a href="https://www.facebook.com/kostya.polosin/">
-        <img src="https://kpolosin.github.io/dist/images/facebook.svg" width=25 height=25>&thinsp;Facebook</a>&emsp;
+    
     <a href="https://www.facebook.com/kostya.polosin/">
             <img src="https://kpolosin.github.io/dist/images/linkedin.svg" width=25 height=25>&thinsp;Linkidin</a>            
 
@@ -31,9 +30,9 @@ Quick Links
 -----------
 <p align="center">
 
-| <img src="https://kpolosin.github.io/dist/images/upwork.svg" width=40 height=40>| **[API](#api)** | **[Fonts ➶][patched-fonts]** | **[Patcher ➶][Nerd Fonts]** |
+| <img src="https://kpolosin.github.io/dist/images/upwork.svg" width=40 height=40>| <img src="https://kpolosin.github.io/dist/images/facebook.svg" width=25 height=25> | **[Fonts ➶][patched-fonts]** | **[Patcher ➶][Nerd Fonts]** |
 |--------------------------------|-----------------|------------------------------|-----------------------------|
-| <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/">Upwork</a> | [![api][img-visual-toc-api]](#api) | [![patcher-logo-small][img-visual-toc-patched-fonts]][patched-fonts] | [![patcher-logo-small][img-visual-toc-fonts-patcher]][Nerd Fonts] |
+| <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/">Upwork</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | [![patcher-logo-small][img-visual-toc-patched-fonts]][patched-fonts] | [![patcher-logo-small][img-visual-toc-fonts-patcher]][Nerd Fonts] |
 
 <p>
 
