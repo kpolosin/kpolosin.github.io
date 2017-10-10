@@ -34,16 +34,3 @@ My overall of experience work in IT - more than 7 years.
     <a href="https://blog.getbootstrap.com/">Blog</a>
   </p>
 </p>
-
-<br><br><br>
-This is [a link](http://example.com){:target="_blank"} that opens in a new window.
-
-<script>
-// make all links open in new tab
-var links = document.getElementsByTagName('a');
-for (var i = 0; i < links.length; i++){
-    var parser = document.createElement('a');
-    parser.href = links[i].href;
-    links[i].target="blank";
-}
-</script>
