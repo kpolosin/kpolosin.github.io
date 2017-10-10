@@ -14,13 +14,12 @@
   </p>
 </p>
 
-<br>
 <p align="center">
     <a href="https://kpolosin.github.io">:us: English</a>&emsp; &middot; &emsp;
     <a href="https://kpolosin.github.io/rus/index.html">:ru: Русский</a>
 </p>
 <h2></h2>
-<br>
+
 
 <h2><p align="center">Contact me</p></h2>
 ➤ [Upwork](https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/)<br>
