@@ -26,7 +26,7 @@
 
 ><h2>Contact me</h2>
 
-| <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/"><img src="https://kpolosin.github.io/dist/images/upwork_my.svg" width=70 height=70></a> | <img src="https://kpolosin.github.io/dist/images/facebook_me.svg" width=70 height=70> | <img src="https://kpolosin.github.io/dist/images/linkedin_me.svg" width=70 height=70> | <img src="https://kpolosin.github.io/dist/images/skype_me.svg" width=70 height=70> |
+| <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/"><img src="https://kpolosin.github.io/dist/images/upwork_my.svg" width=100 height=100></a> | <a href="https://www.facebook.com/kostya.polosin/"><img src="https://kpolosin.github.io/dist/images/facebook_my.svg" width=100 height=100></a> | <img src="https://kpolosin.github.io/dist/images/linkedin_my.svg" width=100 height=100> | <img src="https://kpolosin.github.io/dist/images/skype_me.svg" width=100 height=100> |
 | :---: | :---: | :---: | :---: |
 | <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/">Upwork</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> |
 
