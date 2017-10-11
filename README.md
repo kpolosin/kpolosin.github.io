@@ -28,13 +28,6 @@
 
 | <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/"><img src="https://kpolosin.github.io/dist/images/upwork_my.svg" width=100 height=100></a> | <a href="https://www.facebook.com/kostya.polosin/"><img src="https://kpolosin.github.io/dist/images/facebook_my.svg" width=100 height=100></a> | <a href="https://www.linkedin.com/in/konstantinpolosin/"><img src="https://kpolosin.github.io/dist/images/linkedin_my.svg" width=100 height=100></a> | <a href="https://twitter.com/PKostya404"><img src="https://kpolosin.github.io/dist/images/twitter_my.svg" width=100 height=100></a> | <img src="https://kpolosin.github.io/dist/images/skype_my.svg" width=100 height=100> | <a href="mailto:user0403@gmail.com"><img src="https://kpolosin.github.io/dist/images/gmail_my.svg" width=100 height=100></a> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/">Upwork</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | <p>yapokakal404</p> | <a href="mailto:user0403@gmail.com">user0403@gmail.com</a> |
+| <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/">Upwork</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | <b>yapokakal404</b> | <a href="mailto:user0403@gmail.com">user0403@gmail.com</a> |
 
 
-[| {.class1.class2 #royal-pain style="text-align: center"}
-// table code here //
-| header 1 | header 2 |
-| -------- | -------- |
-| cell 1   | cell 2   |
-| cell 3   | cell 4   | 
-|]
