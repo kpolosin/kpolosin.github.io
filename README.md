@@ -19,8 +19,8 @@
     <a href="https://kpolosin.github.io/rus/index.html">:ru: Русский</a>
 </p>
 
-    <a href="https://www.facebook.com/kostya.polosin/">
-            <img src="https://kpolosin.github.io/dist/images/linkedin.svg" width=25 height=25>&thinsp;Linkidin</a>            
+   <a href="https://www.facebook.com/kostya.polosin/">
+    <img src="https://kpolosin.github.io/dist/images/linkedin.svg" width=25 height=25>&thinsp;Linkidin</a>            
 
 
 
