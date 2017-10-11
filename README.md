@@ -36,7 +36,6 @@ Quick Links
 
 </center>
 
-<p align="center"></p>
 <table>
     <thead>
         <tr>
@@ -53,7 +52,6 @@ Quick Links
         </tr>
     </tbody>
 </table>
-<p></p>
 
 ➤<b> Skype</b> - yapokakal404<br>
 ➤<b> E-mail</b> - user0403@gmail.com<br>
