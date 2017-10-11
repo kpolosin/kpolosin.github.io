@@ -27,6 +27,7 @@
 
 <center>
 <table align="center">
+<tbody align="center">
   <tr align="center">
     <th>Firstname</th>
     <th>Lastname</th> 
@@ -42,5 +43,6 @@
     <td>Jackson</td> 
     <td>94</td>
   </tr>
+  </tbody>
 </table>
 </center>
