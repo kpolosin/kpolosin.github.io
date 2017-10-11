@@ -27,17 +27,17 @@
 
 <center>
 <table align="center">
-  <tr>
+  <tr align="center">
     <th>Firstname</th>
     <th>Lastname</th> 
     <th>Age</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td>Jill</td>
     <td>Smith</td> 
     <td>50</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>Eve</td>
     <td>Jackson</td> 
     <td>94</td>
