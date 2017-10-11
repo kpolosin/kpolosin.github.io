@@ -19,20 +19,14 @@
     <a href="https://kpolosin.github.io/rus/index.html">:ru: Русский</a>
 </p>
 
-   <a href="https://www.facebook.com/kostya.polosin/">
-    <img src="https://kpolosin.github.io/dist/images/linkedin.svg" width=25 height=25>&thinsp;Linkidin</a>            
+   
+                
 
 
 
 ><h2>Contact me</h2>
 
-| <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/"><img src="https://kpolosin.github.io/dist/images/upwork_my.svg" width=100 height=100></a> | <a href="https://www.facebook.com/kostya.polosin/"><img src="https://kpolosin.github.io/dist/images/facebook_my.svg" width=100 height=100></a> | <img src="https://kpolosin.github.io/dist/images/linkedin_my.svg" width=100 height=100> | <img src="https://kpolosin.github.io/dist/images/skype_me.svg" width=100 height=100> |
-| :---: | :---: | :---: | :---: |
-| <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/">Upwork</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> |
-
-
->➤<b> Skype</b> - yapokakal404<br>
->➤<b> E-mail</b> - user0403@gmail.com<br>
-
-
+| <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/"><img src="https://kpolosin.github.io/dist/images/upwork_my.svg" width=100 height=100></a> | <a href="https://www.facebook.com/kostya.polosin/"><img src="https://kpolosin.github.io/dist/images/facebook_my.svg" width=100 height=100></a> | <a href="https://www.linkedin.com/in/konstantinpolosin/"><img src="https://kpolosin.github.io/dist/images/linkedin_my.svg" width=100 height=100></a> | <a href="https://twitter.com/PKostya404"><img src="https://kpolosin.github.io/dist/images/twitter_my.svg" width=100 height=100></a> | <a href="#"><img src="https://kpolosin.github.io/dist/images/skype_my.svg" width=100 height=100></a> | <a href="#"><img src="https://kpolosin.github.io/dist/images/gmail_my.svg" width=100 height=100></a> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/">Upwork</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | <a href="#">Skype - yapokakal404</a> | <a href="#">user0403@gmail.com</a> |
  
