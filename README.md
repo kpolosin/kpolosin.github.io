@@ -31,8 +31,8 @@
 | <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/">Upwork</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> | <a href="https://www.facebook.com/kostya.polosin/">Facebook</a> |
 
 
-➤<b> Skype</b> - yapokakal404<br>
-➤<b> E-mail</b> - user0403@gmail.com<br>
+>➤<b> Skype</b> - yapokakal404<br>
+>➤<b> E-mail</b> - user0403@gmail.com<br>
 
 
  
