@@ -22,9 +22,9 @@
     <a href="https://www.facebook.com/kostya.polosin/">
             <img src="https://kpolosin.github.io/dist/images/linkedin.svg" width=25 height=25>&thinsp;Linkidin</a>            
 
-<h2> </h2>
 
-><h2>Contact me</h2>
+
+><br><h2>Contact me</h2><br>
 
 | <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/"><img src="https://kpolosin.github.io/dist/images/upwork.svg" width=50 height=50></a> | <img src="https://kpolosin.github.io/dist/images/facebook.svg" width=50 height=50> | <img src="https://kpolosin.github.io/dist/images/linkedin.svg" width=50 height=50> | <img src="https://kpolosin.github.io/dist/images/skype.svg" width=50 height=50> |
 | :---: | :---: | :---: | :---: |
