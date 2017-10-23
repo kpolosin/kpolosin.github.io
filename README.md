@@ -22,7 +22,7 @@
 
 <p align="center">
 
-><h2>Contact me</h2>
+<h2>Contact me</h2>
 
 </p>
 
