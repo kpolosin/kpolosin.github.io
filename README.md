@@ -12,12 +12,11 @@
     <br><br>
   </p>
 </p>
-
+<p>
     <h2><strong>Overview</strong></h2>
-
     <a href="https://kpolosin.github.io">:us: <b>English</b></a>&emsp; &middot; &emsp;
     <a href="https://kpolosin.github.io/rus/index.html">:ru: <b>Русский</b></a>
-
+</p>
 <br>
 
 <h2><strong>Contact me</strong></h2>
