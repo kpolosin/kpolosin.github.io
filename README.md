@@ -20,7 +20,7 @@
 </p>
 <br>
 
-<h2 align="center"><strong>Overview</strong></h2>
+<h2 align="center"><strong>Contact me</strong></h2>
 <br>
 
 | <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/"><img src="https://kpolosin.github.io/dist/images/Upwork.svg" width=75 height=75></a> | <a href="https://www.facebook.com/kostya.polosin/"><img src="https://kpolosin.github.io/dist/images/Facebook.svg" width=75 height=75></a> | <a href="https://www.linkedin.com/in/konstantinpolosin/"><img src="https://kpolosin.github.io/dist/images/LinkedIn.svg" width=75 height=75></a> | <a href="https://twitter.com/PKostya404"><img src="https://kpolosin.github.io/dist/images/Twitter.svg" width=75 height=75></a> | <img src="https://kpolosin.github.io/dist/images/Skype.svg" width=75 height=75> | <a href="mailto:user0403@gmail.com"><img src="https://kpolosin.github.io/dist/images/Gmail.svg" width=75 height=75></a> |
