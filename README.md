@@ -21,9 +21,7 @@
 <br>
 
 <p align="center">
-
-<h2>Contact me</h2>
-
+><h2>Contact me</h2>
 </p>
 
 | <a href="https://www.upwork.com/o/profiles/users/_~013f4766f5942a8a0c/"><img src="https://kpolosin.github.io/dist/images/Upwork.svg" width=110 height=110></a> | <a href="https://www.facebook.com/kostya.polosin/"><img src="https://kpolosin.github.io/dist/images/Facebook.svg" width=110 height=110></a> | <a href="https://www.linkedin.com/in/konstantinpolosin/"><img src="https://kpolosin.github.io/dist/images/LinkedIn.svg" width=110 height=110></a> | <a href="https://twitter.com/PKostya404"><img src="https://kpolosin.github.io/dist/images/Twitter.svg" width=110 height=110></a> | <img src="https://kpolosin.github.io/dist/images/Skype.svg" width=110 height=110> | <a href="mailto:user0403@gmail.com"><img src="https://kpolosin.github.io/dist/images/Gmail.svg" width=110 height=110></a> |
