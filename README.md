@@ -9,7 +9,7 @@
 <p>
     I'm a web developer with extensive experience in building high quality and complexity web sites and landing pages. I've successfully developed more than 60 web projects in a broad range of business spheres on Ukrainian and European market: e-commerce, development, cars, art, pharmacy, extreme, beauty etc.
     My overall of experience work in IT - more than 7 years.
-    <br><br>
+  <br>
   </p>
 </p>
 <p>
