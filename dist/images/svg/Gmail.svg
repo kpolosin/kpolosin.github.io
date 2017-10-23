@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Слой_1" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve" width="96" height="96">
+<linearGradient id="SVGID_1__48165" gradientUnits="userSpaceOnUse" x1="57" y1="10.6667" x2="57" y2="53.5528" spreadMethod="reflect">
+	<stop offset="0" style="stop-color:#6DC7FF"/>
+	<stop offset="1" style="stop-color:#E6ABFF"/>
+</linearGradient>
+<path style="fill:url(#SVGID_1__48165);" d="M56,11h0.33c2.027,0,3.67,1.331,3.67,3.357v35.285c0,0.359-0.051,0.55-0.15,0.879  C59.405,52.045,57.999,53,56.33,53H54V21"/>
+<linearGradient id="SVGID_2__48165" gradientUnits="userSpaceOnUse" x1="32" y1="10.6667" x2="32" y2="53.5528" spreadMethod="reflect">
+	<stop offset="0" style="stop-color:#6DC7FF"/>
+	<stop offset="1" style="stop-color:#E6ABFF"/>
+</linearGradient>
+<path style="fill:url(#SVGID_2__48165);" d="M56.33,11l-24.14,17.236L8.217,11H7.669C5.642,11,4,12.331,4,14.357v35.285  c0,0.359,0.051,0.55,0.149,0.879C4.595,52.045,6.001,53,7.669,53H10V21.005l22.324,16.064L60,16.891v-2.534  C60,12.331,58.358,11,56.33,11z"/>
+<linearGradient id="SVGID_3__48165" gradientUnits="userSpaceOnUse" x1="32" y1="9.5" x2="32" y2="55.5244" spreadMethod="reflect">
+	<stop offset="0" style="stop-color:#1A6DFF"/>
+	<stop offset="1" style="stop-color:#C822FF"/>
+</linearGradient>
+<path style="fill:url(#SVGID_3__48165);" d="M56.331,10h-0.32H56H8.54h-0.87C5.007,10,3,11.873,3,14.357v0.312v34.662v0.312  c0,0.489,0.076,0.779,0.189,1.16C3.758,52.745,5.517,54,7.669,54H11h42h3.331c2.153,0,3.911-1.255,4.478-3.192  C60.924,50.422,61,50.132,61,49.643v-0.312V17.4v-2.731v-0.312C61,11.873,58.993,10,56.331,10z M53.209,12L32.192,27.005L11.321,12  H53.209z M7.669,52C6.197,52,5,50.803,5,49.331V14.669C5,13.197,6.197,12,7.669,12h0.226l24.293,17.466l24.423-17.438  C57.95,12.171,59,13.293,59,14.669v1.714L32.32,35.834L9,19.054V52H7.669z M11,52V22.956l21.328,15.347L53,23.232V52H11z M59,49.331  C59,50.803,57.803,52,56.331,52H55V21.774l4-2.916V49.331z"/>
+</svg>
