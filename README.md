@@ -16,8 +16,13 @@
     <h2><strong>Overview</strong></h2>
     <a href="https://kpolosin.github.io">:us: <b>English</b></a>&emsp; &middot; &emsp;
     <a href="https://kpolosin.github.io/rus/index.html">:ru: <b>Русский</b></a>
+
 </p>
 <br>
+
+| <a href="https://kpolosin.github.io"><img src="https://kpolosin.github.io/dist/images/USA-flag.png" width=50 height=50></a>| <a href="https://kpolosin.github.io/rus/index.html"><img src="https://kpolosin.github.io/dist/images/Russian-flag.png" width=50 height=50></a> |
+| :---: | :---: |
+| <a href="https://kpolosin.github.io">:us: <b>English</b></a> | <a href="https://kpolosin.github.io/rus/index.html">:ru: <b>Русский</b></a>|
 
 <h2><strong>Contact me</strong></h2>
 
