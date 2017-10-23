@@ -13,7 +13,7 @@
   </p>
 </p>
 <p>
-    <h2><strong>Overview</strong></h2>
+    <h2><strong>CV overview</strong></h2>
 </p>
 
 | <a href="https://kpolosin.github.io"><img src="https://kpolosin.github.io/dist/images/USA-flag.png" width=50 height=50></a>| <a href="https://kpolosin.github.io/rus/index.html"><img src="https://kpolosin.github.io/dist/images/Russian-flag.png" width=50 height=50></a> |
