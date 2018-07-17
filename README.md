@@ -13,7 +13,7 @@
   </p>
 </p>
 <p>
-    <h2><strong>CV overview</strong></h2>
+    <h5><strong>CV overview</strong></h5>
 </p>
 
 ---
