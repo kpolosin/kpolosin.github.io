@@ -13,9 +13,8 @@
   </p>
 </p>
 <p>
-    <h5><strong>CV overview</strong></h5>
+    <h3><strong>CV overview</strong></h3>
 </p>
-
 ---
 
 
