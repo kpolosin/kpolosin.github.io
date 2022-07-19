@@ -1,6 +1,5 @@
 .idea/
 !.gitignore
-src/
 #OSX Filesystem
 .DS_Store
 # ignore node/grunt dependency directories

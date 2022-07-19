@@ -1,0 +1,20 @@
+body {
+  background: grey;
+}
+body h1 {
+  color: red;
+}
+body span {
+  font-size: 18px;
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+header {
+  background: red;
+}
+h2 {
+  color: green;
+  font-size: 12px;
+}
+
