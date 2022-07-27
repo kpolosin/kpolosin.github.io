@@ -1,4 +1,5 @@
 <p align="center">
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
   <a href="https://kpolosin.github.io/">
     <img src="https://kpolosin.github.io/dist/images/small-logo.svg" width=120 height=120>
     <br>
@@ -11,10 +12,10 @@
     My overall of experience work in IT - more than 7 years.
   <br>
   </p>
-</p>
+
 <p>
     <h3><strong>CV overview</strong></h3>
-</p>
+
 
 ---
 
