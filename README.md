@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://kpolosin.github.io/">
-    <img src="https://kpolosin.github.io/dist/images/small-logo.svg" width=120 height=120>
+    <img src="https://kpolosin.github.io/dist/images/name-logo.svg" width=120 height=120>
     <br>
     <img src="https://kpolosin.github.io/dist/images/name-logo.svg" width=200 height=20>
   </a>
