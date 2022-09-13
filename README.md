@@ -2,7 +2,8 @@
   <a href="https://kpolosin.github.io/">
     <img src="https://kpolosin.github.io/assets/images/logo_new.svg" width=120 height=120>
     <br>
-    <img src="https://kpolosin.github.io/assets/images/name-logo.svg" width=200 height=20>
+    <img src="https://kpolosin.github.io/assets/images/name-logo-white.svg#gh-dark-mode-only" width=200 height=20>
+    <img src="https://kpolosin.github.io/assets/images/name-logo-dark.svg#gh-light-mode-only" width=200 height=20>
   </a>
 
 
