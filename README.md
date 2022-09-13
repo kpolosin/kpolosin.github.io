@@ -5,7 +5,8 @@
     <img src="https://kpolosin.github.io/assets/images/name-logo-white.svg#gh-dark-mode-only" width=200 height=20>
     <img src="https://kpolosin.github.io/assets/images/name-logo-dark.svg#gh-light-mode-only" width=200 height=20>
   </a>
-
+![Termux Logo](https://user-images.githubusercontent.com/72879799/153904003-d7dee710-6552-4d23-a803-7a9a0ba67d92.png#gh-dark-mode-only)
+![Termux Logo](https://user-images.githubusercontent.com/72879799/153904095-9d78a019-8495-4035-8174-e3da8e4dd66b.png#gh-light-mode-only)
 
 <p>
     I’m a front-end developer with over 7 years experience. I’ve successfully worked in many interesting web projects in a broad range of business spheres on Ukrainian and European market: e-commerce, development, cars, art, pharmacy, extreme, beauty etc. At now my main direction in the work is a full stack Wordpress development.
