@@ -1,19 +1,40 @@
-body{
-  background: grey;
-  h1{
-    color: red;
-  }
-  span{
-    font-size: 18px;
-    display: block;
-    width: 100%;
+body, html {
+  background: #020c1b;
+}
+
+.card{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background: #0a192f;
+  padding: 35px;
+  border-radius: 10px;
+  .text{
     text-align: center;
+    font-weight: 900;
+    .title{
+      color: #ccd6f6;
+      font-size: 38px;
+    }
+    .sub-title{
+      color: #8892b0;
+      font-size: 18px;
+      text-transform: uppercase;
+    }
   }
-}
-header{
-  background: red;
-}
-h2{
-  color: green;
-  font-size: 12px;
+  .photo{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    img{
+      max-width: 220px;
+      height: initial;
+      border-radius: 50%;
+    }
+  }
 }
