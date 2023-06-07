@@ -1,11 +1,7 @@
 {
   "name": "kpolosin.github.io",
   "version": "1.0.0",
-  "description": "<p align=\"center\">   <a href=\"https://kpolosin.github.io/\">     <img src=\"https://kpolosin.github.io/dist/images/small-logo.svg\" width=120 height=120>     <br>     <img src=\"https://kpolosin.github.io/dist/images/name-logo.svg\" width=200 height=20>   </a>",
-  "main": "gulpfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Konstantin Polosin person card",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kpolosin/kpolosin.github.io.git"
@@ -23,16 +19,12 @@
     "not dead"
   ],
   "devDependencies": {
-    "@babel/plugin-transform-instanceof": "^7.14.5",
-    "@babel/plugin-transform-property-mutators": "^7.14.5",
     "laravel-mix": "^6.0.27",
     "less": "^4.1.1",
     "less-loader": "^10.0.1"
   },
   "dependencies": {
-    "axios": "^0.21.1",
     "core-js": "^3.16.1",
-    "jquery": "^3.5.1",
     "regenerator-runtime": "^0.13.9"
   }
 }

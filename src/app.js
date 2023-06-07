@@ -10,8 +10,9 @@
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _bootstrap__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./bootstrap */ "./assets/js/bootstrap.js");
- // Your code here...
 
+
+// Your code here...
 var f = alert('aa');
 
 /***/ }),
@@ -24,7 +25,9 @@ var f = alert('aa');
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _bootstrap__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./bootstrap */ "./assets/js/bootstrap.js");
- // Your code here...
+
+
+// Your code here...
 
 /***/ }),
 
