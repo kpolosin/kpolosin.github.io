@@ -6,8 +6,9 @@
     <img src="https://kpolosin.github.io/assets/images/name-logo-dark.svg#gh-light-mode-only" width=200 height=20>
   </a>
 
-[![GitHub-Mark-Light](https://kpolosin.github.io/assets/images/name-logo-white.svg#gh-dark-mode-only)](https://kpolosin.github.io/){: style="width: 200px; height: 20px;" }
-[![GitHub-Mark-Dark](https://kpolosin.github.io/assets/images/name-logo-dark.svg#gh-light-mode-only)](https://kpolosin.github.io/){: style="width: 200px; height: 20px;" }
+![GitHub-Mark-Light](https://kpolosin.github.io/assets/images/name-logo-white.svg#gh-dark-mode-only)
+![GitHub-Mark-Dark](https://kpolosin.github.io/assets/images/name-logo-dark.svg#gh-light-mode-only)
+
 
 
 
