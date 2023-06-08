@@ -1,9 +1,9 @@
 <a href="https://kpolosin.github.io/" target="_blank">
 <p align="center">
-  <img src="assets/images/kp-white.png#gh-dark-mode-only" width="120" height="120">
+  <img src="assets/images/kp-white.png#gh-dark-mode-only" width="150" height="98">
 </p>
 <p align="center">
-  <img src="assets/images/kp-dark.png#gh-light-mode-only" width="120" height="120">
+  <img src="assets/images/kp-dark.png#gh-light-mode-only" width="150" height="98">
 </p>
 </a>
 
