@@ -6,7 +6,7 @@
     <img src="https://kpolosin.github.io/assets/images/name-logo-dark.svg#gh-light-mode-only" width=200 height=20>
   </a>
 
-![GitHub-Mark-Light](https://kpolosin.github.io/assets/images/konstantin_polosin_name_light.png#gh-dark-mode-only)![GitHub-Mark-Dark](https://kpolosin.github.io/assets/images/konstantin_polosin_name_dark.png#gh-light-mode-only)
+![GitHub-Mark-Light](assets/images/konstantin_polosin_name_light.png#gh-dark-mode-only)![GitHub-Mark-Dark](assets/images/konstantin_polosin_name_dark.png#gh-light-mode-only)
 
 
 
