@@ -1,18 +1,11 @@
+<a href="https://kpolosin.github.io/" target="_blank">
 <p align="center">
-  <a href="https://kpolosin.github.io/">
-    <img src="https://kpolosin.github.io/assets/images/logo_new.svg" width=120 height=120>
-    <br>
-    <img src="https://kpolosin.github.io/assets/images/name-logo-white.svg#gh-dark-mode-only" width=200 height=20>
-    <img src="https://kpolosin.github.io/assets/images/name-logo-dark.svg#gh-light-mode-only" width=200 height=20>
-  </a>
-
-<p align="center">
-  <img src="assets/images/konstantin_polosin_name_light.png#gh-dark-mode-only" width="200" height="20">
+  <img src="assets/images/kp-white.png#gh-dark-mode-only" width="120" height="120">
 </p>
-
 <p align="center">
-  <img src="assets/images/konstantin_polosin_name_dark.png#gh-light-mode-only" width="200" height="20">
+  <img src="assets/images/kp-dark.png#gh-light-mode-only" width="120" height="120">
 </p>
+</a>
 
 
 
