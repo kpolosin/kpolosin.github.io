@@ -7,11 +7,11 @@
   </a>
 
 <p align="center">
-  <img src="assets/images/konstantin_polosin_name_light.png#gh-dark-mode-only" width="200" height="200">
+  <img src="assets/images/konstantin_polosin_name_light.png#gh-dark-mode-only" width="200" height="20">
 </p>
 
 <p align="center">
-  <img src="assets/images/konstantin_polosin_name_dark.png#gh-light-mode-only" width="200" height="200">
+  <img src="assets/images/konstantin_polosin_name_dark.png#gh-light-mode-only" width="200" height="20">
 </p>
 
 
