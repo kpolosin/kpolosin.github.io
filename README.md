@@ -2,7 +2,7 @@
   <img src="assets/images/kp-white.png#gh-dark-mode-only" width="150" height="98">
 </p>
 <p align="center">
-  <img src="assets/images/kp-dark.png#gh-light-mode-only" width="150" height="98">
+  <img src="assets/images/kp-black.png#gh-light-mode-only" width="150" height="98">
 </p>
 
 
