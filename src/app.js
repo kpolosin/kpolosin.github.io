@@ -1,33 +1,23 @@
 /******/ (function() { // webpackBootstrap
-/******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
 /***/ "./assets/js/app.js":
 /*!**************************!*\
   !*** ./assets/js/app.js ***!
   \**************************/
-/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+/***/ (function() {
 
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _bootstrap__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./bootstrap */ "./assets/js/bootstrap.js");
+/*
+import './bootstrap';
+*/
 
-
-// Your code here...
-var f = alert('aa');
-
-/***/ }),
-
-/***/ "./assets/js/bootstrap.js":
-/*!********************************!*\
-  !*** ./assets/js/bootstrap.js ***!
-  \********************************/
-/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _bootstrap__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./bootstrap */ "./assets/js/bootstrap.js");
-
-
-// Your code here...
+var gradientElement = document.querySelector('.gradient');
+document.addEventListener('mousemove', function (event) {
+  var mouseX = event.pageX;
+  var mouseY = event.pageY;
+  var gradient = 'radial-gradient(600px at ' + mouseX + 'px ' + mouseY + 'px, rgba(29, 78, 216, 0.15), transparent 80%)';
+  gradientElement.style.background = gradient;
+});
 
 /***/ }),
 
@@ -37,6 +27,7 @@ __webpack_require__.r(__webpack_exports__);
   \********************************/
 /***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
+"use strict";
 __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 
